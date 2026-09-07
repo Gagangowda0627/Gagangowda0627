@@ -1,4 +1,28 @@
+# Hi 👋, I'm Gagan Gowda D
 
+### 🚀 Aspiring Software Developer | AI/ML Enthusiast | Technology Explorer 🇮🇳
+
+---
+
+## 👨‍💻 About Me
+
+I am **Gagan Gowda D**, an aspiring software developer and technology enthusiast 
+with a strong interest in **Artificial Intelligence, Machine Learning, Web Development, 
+and emerging technologies**.
+
+I enjoy learning new technologies, building innovative projects, and solving 
+real-world problems through software and engineering.
+
+- 🔭 Currently working on **AI, ML and Software Projects**
+- 🌱 Currently learning **Python, AI/ML, Web Development and Data Science**
+- 💻 Interested in **Artificial Intelligence & Machine Learning**
+- 🌐 Interested in **Web Development**
+- 🤖 Passionate about **Robotics and Smart Technologies**
+- 📚 Always interested in learning new technologies
+- 🎯 Goal: Become a skilled **AI/ML & Software Engineer**
+- 🇮🇳 From India
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamgowda27_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gagangowdagawda20034@gmail.com) 
 
